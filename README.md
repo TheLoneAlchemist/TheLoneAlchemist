@@ -19,3 +19,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thelonealchemist&" alt="thelonealchemist" /></p>
 
+[![An image of @codewithdkp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codewithdkp)](https://holopin.io/@codewithdkp)
